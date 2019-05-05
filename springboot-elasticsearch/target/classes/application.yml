@@ -1,0 +1,7 @@
+spring:
+  data:
+    elasticsearch:
+      #集群名称
+      cluster-name: elasticsearch_zhm
+      #集群地址
+      cluster-nodes: localhost:9300
